@@ -8,4 +8,8 @@
     <li>Node</li>
 </ul>
 <p>API used : Mapbox</p>
+<<<<<<< HEAD
 <p>Link : https://www.mapbox.com/</p>
+=======
+<p>Link : https://www.mapbox.com/</p>
+>>>>>>> 18c620d9ec2df0f0c11dcd3f3fcab8cefba65838
